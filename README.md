@@ -19,3 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jungbae99&show_icons=true&locale=en" alt="jungbae99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jungbae99&" alt="jungbae99" /></p>
+
+<a href="https://github.com/devxb/gitanimals">
+    <img src = "https://render.gitanimals.org/farms/{username}"/>
+</a>
