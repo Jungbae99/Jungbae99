@@ -21,5 +21,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jungbae99&" alt="jungbae99" /></p>
 
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/farms/{username}"/>
+    <img src = "https://render.gitanimals.org/farms/Jungbae99"/>
 </a>
