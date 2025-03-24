@@ -1,4 +1,4 @@
-<h1 align="center">👋, 백엔드 개발자 전정배 </h1>
+<h1 align="center"> 백엔드 개발자 전정배 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jungbae99&label=Profile%20views&color=0e75b6&style=flat" alt="jungbae99" /> </p>
 
