@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **java, spring, jpa**
 
-- 📫 How to reach me **dudqotktls55@naver.com**
+- 📫 **dudqotktls55@naver.com**
 
 <p align="left">
 </p>
